@@ -1,0 +1,2 @@
+# AzurePractice
+For Azure practicing
